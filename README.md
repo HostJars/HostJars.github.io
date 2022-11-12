@@ -1,1 +1,2 @@
-# HostJars.github.io
+# ruralconsulting
+The public website for ruralconsulting
