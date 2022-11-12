@@ -648,7 +648,7 @@ $(".counter").appear(function () {
 
 
     //Contact Us
-=
+
 
     $("#rev_slider_1_1").show().revolution({
                     sliderType:"standard",
